@@ -40,6 +40,13 @@
 
 
         <RadioButton
+            android:id="@+id/radio_option_default_bg_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/default_bg_color"
+            android:textSize="24sp" />
+
+        <RadioButton
             android:id="@+id/radio_option_blue"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
