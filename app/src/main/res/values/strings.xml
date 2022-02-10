@@ -20,4 +20,10 @@
     <string name="radio_btn_ten_percent_text">10%</string>
     <string name="radio_btn_fifteen_percent_text">15%</string>
     <string name="radio_btn_twenty_percent_text">20%</string>
+    <string name="place_order">Place order</string>
+    <string name="preferences">Preferences</string>
+    <string name="background_color">Background Color</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
 </resources>
