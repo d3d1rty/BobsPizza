@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">BobsPizza</string>
+    <string name="app_name">Bob\'s Pizza</string>
+    <string name="pref_activity_name">Preferences</string>
+    <string name="image_hint">Picture of pizza</string>
+    <string name="radio_btn_group_delivery_method">Delivery Method</string>
+    <string name="radio_btn_delivery_text">Delivery</string>
+    <string name="radio_btn_pick_up_text">Pick-up</string>
+    <string name="label_num_pizzas">How many?</string>
+    <string name="input_num_pizzas_hint">Number of pizzas</string>
+    <string name="label_crust">Crust</string>
+    <string name="radio_btn_hand_tossed_text">Hand-tossed</string>
+    <string name="radio_btn_thin_crust_text">Thin crust</string>
+    <string name="label_toppings">Toppings</string>
+    <string name="checkbox_topping_mushrooms">Mushrooms</string>
+    <string name="checkbox_topping_pepperoni">Pepperoni</string>
+    <string name="checkbox_topping_sausage">Sausage</string>
+    <string name="checkbox_topping_green_peppers">Green peppers</string>
+    <string name="label_drinks">Drinks</string>
+    <string name="input_num_drinks_hint">Number of drinks</string>
+    <string name="label_tip">Tip</string>
+    <string name="radio_btn_ten_percent_text">10%</string>
+    <string name="radio_btn_fifteen_percent_text">15%</string>
+    <string name="radio_btn_twenty_percent_text">20%</string>
+    <string name="place_order">Place order</string>
+    <string name="preferences">Preferences</string>
+    <string name="background_color">Background Color</string>
+    <string name="pref_key">app_preferences</string>
+    <string name="bg_color_key">background color</string>
+    <string name="text_size_key">text size</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="default_bg_color">White</string>
 </resources>
