@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">BobsPizza</string>
+    <string name="app_name">Bob\'s Pizza</string>
+    <string name="pref_activity_name">Preferences</string>
     <string name="image_hint">Picture of pizza</string>
     <string name="radio_btn_group_delivery_method">Delivery Method</string>
     <string name="radio_btn_delivery_text">Delivery</string>
